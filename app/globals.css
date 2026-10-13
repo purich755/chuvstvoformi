@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import './base.css';
+@import './sections.css';
+
+@theme {
+  --color-porcelain: #f3f2ee;
+  --color-paper: #fafaf8;
+  --color-ink: #1e2722;
+  --color-sage: #8c9e86;
+  --color-sage-deep: #56684f;
+  --color-nude: #d8b9a5;
+  --color-lavender-mist: #dcd7e4;
+  --color-forest: #18211c;
+  --font-display: var(--f-prata), Georgia, serif;
+  --font-sans: var(--f-manrope), system-ui, sans-serif;
+  --font-hand: var(--f-marck), cursive;
+  --font-mono: var(--f-plex), ui-monospace, monospace;
+}

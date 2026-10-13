@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+raw
+*.tsbuildinfo
+next-env.d.ts
+.browser-profile
+preview-*.jpg
+.shot-profile
+*.log

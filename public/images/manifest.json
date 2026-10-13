@@ -1,0 +1,473 @@
+{
+  "generated": "2026-10-11T15:03:05.984Z",
+  "source": "https://yandex.ru/maps/org/chuvstvo_formy/6769645873/gallery/",
+  "images": [
+    {
+      "name": "morpheus8-device",
+      "what": "Аппарат InMode Morpheus8 на лавандовом фоне, руки в розовых перчатках",
+      "usedIn": [
+        "hero",
+        "gallery",
+        "og"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/16874376/2a0000019c05ae356bdc7ffc8013002e7e57/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "morpheus8-device-800.webp",
+          "width": 800,
+          "height": 1199
+        },
+        "1600": {
+          "file": "morpheus8-device-1600.webp",
+          "width": 1600,
+          "height": 2398
+        }
+      }
+    },
+    {
+      "name": "morpheus8-face",
+      "what": "Насадка Morpheus8 у линии челюсти, рука в чёрной перчатке",
+      "usedIn": [
+        "tech:morpheus8",
+        "price-preview"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20478540/2a0000019f991935699e19140895dc240a3d/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "morpheus8-face-800.webp",
+          "width": 800,
+          "height": 1288
+        },
+        "1600": {
+          "file": "morpheus8-face-1600.webp",
+          "width": 1200,
+          "height": 1932
+        }
+      }
+    },
+    {
+      "name": "lpg-master",
+      "what": "Мастер ведёт LPG-процедуру, клиентка в розовом костюме",
+      "usedIn": [
+        "method",
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/17787346/2a0000019f991ba02554d56a0c8f7de71e0e/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "lpg-master-800.webp",
+          "width": 800,
+          "height": 1067
+        },
+        "1600": {
+          "file": "lpg-master-1600.webp",
+          "width": 1600,
+          "height": 2133
+        }
+      }
+    },
+    {
+      "name": "lpg-handpiece",
+      "what": "Кроп: манипула LPG в руках мастера",
+      "usedIn": [
+        "tech:lpg",
+        "price-preview"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/17787346/2a0000019f991ba02554d56a0c8f7de71e0e/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "lpg-handpiece-800.webp",
+          "width": 800,
+          "height": 747
+        },
+        "1600": {
+          "file": "lpg-handpiece-1600.webp",
+          "width": 1600,
+          "height": 1493
+        }
+      }
+    },
+    {
+      "name": "interior-hall",
+      "what": "Холл студии: кресло, столик, витрина с уходом",
+      "usedIn": [
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/17684794/2a0000019f991c9d54547b1ed468c70ac9af/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "interior-hall-800.webp",
+          "width": 800,
+          "height": 1519
+        },
+        "1600": {
+          "file": "interior-hall-1600.webp",
+          "width": 1290,
+          "height": 2450
+        }
+      }
+    },
+    {
+      "name": "facade-entrance",
+      "what": "Вход с вывеской «Студия красоты» и цветами в вазонах, ул. Фучика, 53",
+      "usedIn": [
+        "location",
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20614309/2a000001a0f8d95dc866f2af3d3fc3f5c83a/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "facade-entrance-800.webp",
+          "width": 800,
+          "height": 979
+        },
+        "1600": {
+          "file": "facade-entrance-1600.webp",
+          "width": 928,
+          "height": 1136
+        }
+      }
+    },
+    {
+      "name": "facade-street",
+      "what": "Фасад со стороны двора и парковка у входа",
+      "usedIn": [
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20840442/2a000001a0b9834ecc765bf5ed3f304fafc9/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "facade-street-800.webp",
+          "width": 800,
+          "height": 600
+        },
+        "1600": {
+          "file": "facade-street-1600.webp",
+          "width": 960,
+          "height": 720
+        }
+      }
+    },
+    {
+      "name": "cavitation-leg",
+      "what": "Насадка кавитации на бедре",
+      "usedIn": [
+        "tech:cavitation",
+        "price-preview",
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20840442/2a0000019f991b9ec3398d3d5b5d67bdcb60/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "cavitation-leg-800.webp",
+          "width": 800,
+          "height": 533
+        },
+        "1600": {
+          "file": "cavitation-leg-1600.webp",
+          "width": 1200,
+          "height": 800
+        }
+      }
+    },
+    {
+      "name": "pads-belly",
+      "what": "Насадки аппарата на животе под ремнём (вероятно, лазерный липолиз — уточнить)",
+      "usedIn": [
+        "tech:lipolysis",
+        "price-preview"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/19996834/2a0000019f991b9f17e9111e961446414092/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "pads-belly-800.webp",
+          "width": 800,
+          "height": 800
+        },
+        "1600": {
+          "file": "pads-belly-1600.webp",
+          "width": 1200,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "name": "master-robe",
+      "what": "Кроп коллажа: женщина в белом халате у костюма прессотерапии",
+      "usedIn": [
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20219917/2a0000019f991b9fc8840cb6344b3757c6b8/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "master-robe-800.webp",
+          "width": 800,
+          "height": 1021
+        },
+        "1600": {
+          "file": "master-robe-1600.webp",
+          "width": 1213,
+          "height": 1548
+        }
+      }
+    },
+    {
+      "name": "wrap-belly",
+      "what": "Кроп коллажа: обёртывание талии плёнкой",
+      "usedIn": [
+        "gallery",
+        "price-preview"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20219917/2a0000019f991b9fc8840cb6344b3757c6b8/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "wrap-belly-800.webp",
+          "width": 800,
+          "height": 980
+        },
+        "1600": {
+          "file": "wrap-belly-1600.webp",
+          "width": 1264,
+          "height": 1548
+        }
+      }
+    },
+    {
+      "name": "pressotherapy-suit",
+      "what": "Кроп коллажа: костюм прессотерапии",
+      "usedIn": [
+        "tech:pressotherapy",
+        "price-preview"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20219917/2a0000019f991b9fc8840cb6344b3757c6b8/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "pressotherapy-suit-800.webp",
+          "width": 800,
+          "height": 891
+        },
+        "1600": {
+          "file": "pressotherapy-suit-1600.webp",
+          "width": 1419,
+          "height": 1580
+        }
+      }
+    },
+    {
+      "name": "gloves-belly",
+      "what": "Кроп коллажа: рука в перчатке и насадка на животе",
+      "usedIn": [
+        "gallery"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/20219917/2a0000019f991b9fc8840cb6344b3757c6b8/orig",
+      "watermarkCropped": false,
+      "files": {
+        "800": {
+          "file": "gloves-belly-800.webp",
+          "width": 800,
+          "height": 1142
+        },
+        "1600": {
+          "file": "gloves-belly-1600.webp",
+          "width": 1084,
+          "height": 1548
+        }
+      }
+    },
+    {
+      "name": "ba-body-before",
+      "what": "До/после: фигура в профиль. На фото: «3 курса, миостимуляция, прессотерапия + обёртывание» — до",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/18150755/2a0000019c05a48978fd3fe861c1b965cd8b/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-body-before-800.webp",
+          "width": 538,
+          "height": 435
+        },
+        "1600": {
+          "file": "ba-body-before-1600.webp",
+          "width": 538,
+          "height": 435
+        }
+      }
+    },
+    {
+      "name": "ba-body-after",
+      "what": "До/после: фигура в профиль. На фото: «3 курса, миостимуляция, прессотерапия + обёртывание» — после",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/18150755/2a0000019c05a48978fd3fe861c1b965cd8b/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-body-after-800.webp",
+          "width": 538,
+          "height": 435
+        },
+        "1600": {
+          "file": "ba-body-after-1600.webp",
+          "width": 538,
+          "height": 435
+        }
+      }
+    },
+    {
+      "name": "ba-hands-before",
+      "what": "До/после: кисти рук. На фото: «микроигольчатый RF лифтинг» — до",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/19519244/2a0000019c05a4c7f2f201f446fe47a147f8/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-hands-before-800.webp",
+          "width": 640,
+          "height": 398
+        },
+        "1600": {
+          "file": "ba-hands-before-1600.webp",
+          "width": 640,
+          "height": 398
+        }
+      }
+    },
+    {
+      "name": "ba-hands-after",
+      "what": "До/после: кисти рук. На фото: «микроигольчатый RF лифтинг» — после",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/19519244/2a0000019c05a4c7f2f201f446fe47a147f8/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-hands-after-800.webp",
+          "width": 640,
+          "height": 398
+        },
+        "1600": {
+          "file": "ba-hands-after-1600.webp",
+          "width": 640,
+          "height": 398
+        }
+      }
+    },
+    {
+      "name": "ba-face-before",
+      "what": "До/после: кожа щеки. На фото: «результат микроигольчатого RF лифтинга» — до",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/16443419/2a0000019c05a5246696afd4b7e98d3860d8/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-face-before-800.webp",
+          "width": 640,
+          "height": 218
+        },
+        "1600": {
+          "file": "ba-face-before-1600.webp",
+          "width": 640,
+          "height": 218
+        }
+      }
+    },
+    {
+      "name": "ba-face-after",
+      "what": "До/после: кожа щеки. На фото: «результат микроигольчатого RF лифтинга» — после",
+      "usedIn": [
+        "results"
+      ],
+      "source": "https://avatars.mds.yandex.net/get-altay/16443419/2a0000019c05a5246696afd4b7e98d3860d8/orig",
+      "watermarkCropped": true,
+      "files": {
+        "800": {
+          "file": "ba-face-after-800.webp",
+          "width": 640,
+          "height": 218
+        },
+        "1600": {
+          "file": "ba-face-after-1600.webp",
+          "width": 640,
+          "height": 218
+        }
+      }
+    },
+    {
+      "name": "logo-original",
+      "what": "Логотип студии с карточки Яндекс Карт (оригинал). На сайте используется SVG-перерисовка из scripts/trace-logo.mjs",
+      "usedIn": [
+        "reference"
+      ],
+      "files": {
+        "1600": {
+          "file": "logo-original-1600.webp"
+        }
+      }
+    },
+    {
+      "name": "wrap-candlelight-video",
+      "what": "Обёртывание при тёплом свете (подпись и знак внизу обрезаны)",
+      "usedIn": [
+        "gallery-lightbox"
+      ],
+      "source": "https://runtime.strm.yandex.ru/player/video/vplv55hs4dh5yvwbpxou",
+      "files": {
+        "video": {
+          "file": "../video/wrap-candlelight.mp4"
+        },
+        "poster": {
+          "file": "wrap-candlelight-poster-800.webp",
+          "width": 478,
+          "height": 720
+        }
+      }
+    },
+    {
+      "name": "way-to-studio-video",
+      "what": "Дорога к студии зимой: двор, шлагбаум, вход «Студия красоты»",
+      "usedIn": [
+        "gallery-lightbox"
+      ],
+      "source": "https://runtime.strm.yandex.ru/player/video/vplvjwslvy3jvn4hvhpm",
+      "files": {
+        "video": {
+          "file": "../video/way-to-studio.mp4"
+        },
+        "poster": {
+          "file": "way-to-studio-poster-800.webp",
+          "width": 406,
+          "height": 720
+        }
+      }
+    }
+  ],
+  "skipped": [
+    "Мужчина с аппаратом EMS на прессе — рекламный кадр производителя (модель), не используется",
+    "Женщина с роликовой насадкой на красном фоне — рекламный кадр производителя (модель), не используется",
+    "Флаер «Этот аппарат вернёт вам годы молодости» — рекламная листовка с текстом, не используется",
+    "Лицо до/после (портреты) — похоже на промо производителя, не используется",
+    "Спина LPG до/после, руки RF до/после (2×2), целлюлит до/после — водяной знак/стрелки в кадре, не используются",
+    "Morpheus8 на животе — 480×270 и промо-кадр с моделью, не используется",
+    "Видео с бинтовым обёртыванием — крупный вшитый текст на половину кадра, не используется"
+  ]
+}
